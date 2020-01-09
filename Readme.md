@@ -1,3 +1,5 @@
+Centralized Multi-User Concurrent Bank Account Manager:
+
 I have implemented a Centralized Multi-User Concurrent Bank Account Manager. The system has two important components.
 
 Bank Server: The server program that services online requests for account
@@ -11,7 +13,7 @@ account based on some fixed rate.
 
 Server:
 
-The server receives queries from customersfor operations on accounts. The server has following
+The server receives queries from customers for operations on accounts. The server has following
 functionalities:
 Able to accept multiple concurrent customer requests (i.e., is multi-
 threaded)
