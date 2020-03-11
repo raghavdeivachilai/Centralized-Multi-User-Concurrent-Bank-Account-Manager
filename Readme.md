@@ -1,6 +1,6 @@
 # Centralized Multi-User Concurrent Bank Account Manager:
 
-I have implemented a Centralized Multi-User Concurrent Bank Account Manager. The system has two important components.
+I implemented a Centralized Multi-User Concurrent Bank Account Manager. The system has two important components.
 
 ### Bank Server: 
 The server program that services online requests for account
